@@ -1,9 +1,10 @@
 # Image-Classification-and-Verification-CompCars-Dataset
+## Description:
 The field of computer vision, particularly in
 automotive applications, has experienced rapid advancements,
 making it highly relevant for developing intelligent
 transportation systems and autonomous vehicles. In this
-report, we utilize the CompCars [1] dataset to conduct three
+project, we utilize the CompCars dataset to conduct three
 primary tasks: car make classification, car part classification,
 and car make verification using state-of-the-art deep learning
 techniques. These tasks are crucial for improving vehicle
@@ -22,3 +23,9 @@ results provide a robust benchmark for future research and
 can be integrated into commercial products, such as automated
 vehicle inspection systems and intelligent traffic monitoring,
 offering substantial benefits in terms of efficiency and accuracy.
+
+## Index Terms
+Convolutional Neural Networks, Residual Net- work, GoogLeNet, Siamese Network
+
+## Language:
+Python
