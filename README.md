@@ -1,4 +1,5 @@
 # Image-Classification-and-Verification-CompCars-Dataset
+This is the final project for Deep Learning and Neural Networks
 ## Description:
 The field of computer vision, particularly in
 automotive applications, has experienced rapid advancements,
@@ -25,7 +26,7 @@ vehicle inspection systems and intelligent traffic monitoring,
 offering substantial benefits in terms of efficiency and accuracy.
 
 ## Index Terms
-Convolutional Neural Networks, Residual Net- work, GoogLeNet, Siamese Network
+Convolutional Neural Networks, Residual Network, GoogLeNet, Siamese Network
 
 ## Language:
 Python
